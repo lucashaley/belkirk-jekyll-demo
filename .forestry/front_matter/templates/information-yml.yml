@@ -7,6 +7,11 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: twitter
+  label: Twitter
+  type: text
+  hidden: false
+  default: ''
 - name: phone
   label: Phone
   type: text
@@ -39,11 +44,6 @@ fields:
   default: ''
 - name: country
   label: Country
-  type: text
-  hidden: false
-  default: ''
-- name: twitter
-  label: Twitter
   type: text
   hidden: false
   default: ''
