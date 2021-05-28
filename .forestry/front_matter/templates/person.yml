@@ -25,6 +25,13 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: twitter
+  type: text
+  config:
+    required: false
+  label: Twitter
+  description: Twitter username, starting with the "@" symbol
+  default: "@nzgda"
 - name: linkedin
   label: Linkedin
   type: text
